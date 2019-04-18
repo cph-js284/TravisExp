@@ -1,11 +1,11 @@
 language: csharp
-solution: doingtravis.sln
+mono: none
+dotnet: 2.2
 
 install:
-  - nuget restore doingtravis.sln
-  - nuget install NUnit.Console -Version 3.9.0 -OutputDirectory testrunner
+    - dotnet restore
 
-script:
-  - msbuild /p:Configuration=Release doingtravis.sln
-  - mono ./testrunner/NUnit.ConsoleRunner.3.9.0/tools/nunit3-console.exe ./test/bin/Release/test.dll
+script: 
+  - dotnet build
+  - dotnet test test/test.csproj
 
