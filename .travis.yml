@@ -1,11 +1,11 @@
 language: csharp
 mono: none
-dotnet: 2.2.203
-
-install:
-    - dotnet restore
+sudo: required
+dist: xenial
+dotnet: 2.2
 
 script: 
+  - dotnet restore
   - dotnet build
   - dotnet test test/test.csproj
 
