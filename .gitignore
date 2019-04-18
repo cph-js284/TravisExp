@@ -1,0 +1,6 @@
+codesrc/.vscode
+codesrc/bin
+codesrc/obj
+test/.vscode
+test/bin
+test/obj
