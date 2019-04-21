@@ -1,0 +1,17 @@
+C:\dev\VMs\GitlabTest\TravisExp\tf\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.dll
+C:\dev\VMs\GitlabTest\TravisExp\tf\bin\Debug\netcoreapp2.2\NUnit3.TestAdapter.pdb
+C:\dev\VMs\GitlabTest\TravisExp\tf\bin\Debug\netcoreapp2.2\nunit.engine.netstandard.dll
+C:\dev\VMs\GitlabTest\TravisExp\tf\bin\Debug\netcoreapp2.2\tf.deps.json
+C:\dev\VMs\GitlabTest\TravisExp\tf\bin\Debug\netcoreapp2.2\tf.runtimeconfig.json
+C:\dev\VMs\GitlabTest\TravisExp\tf\bin\Debug\netcoreapp2.2\tf.runtimeconfig.dev.json
+C:\dev\VMs\GitlabTest\TravisExp\tf\bin\Debug\netcoreapp2.2\tf.dll
+C:\dev\VMs\GitlabTest\TravisExp\tf\bin\Debug\netcoreapp2.2\tf.pdb
+C:\dev\VMs\GitlabTest\TravisExp\tf\bin\Debug\netcoreapp2.2\codesrc.dll
+C:\dev\VMs\GitlabTest\TravisExp\tf\bin\Debug\netcoreapp2.2\codesrc.pdb
+C:\dev\VMs\GitlabTest\TravisExp\tf\obj\Debug\netcoreapp2.2\tf.csprojAssemblyReference.cache
+C:\dev\VMs\GitlabTest\TravisExp\tf\obj\Debug\netcoreapp2.2\tf.csproj.CoreCompileInputs.cache
+C:\dev\VMs\GitlabTest\TravisExp\tf\obj\Debug\netcoreapp2.2\tf.AssemblyInfoInputs.cache
+C:\dev\VMs\GitlabTest\TravisExp\tf\obj\Debug\netcoreapp2.2\tf.AssemblyInfo.cs
+C:\dev\VMs\GitlabTest\TravisExp\tf\obj\Debug\netcoreapp2.2\tf.csproj.CopyComplete
+C:\dev\VMs\GitlabTest\TravisExp\tf\obj\Debug\netcoreapp2.2\tf.dll
+C:\dev\VMs\GitlabTest\TravisExp\tf\obj\Debug\netcoreapp2.2\tf.pdb
